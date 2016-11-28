@@ -65,7 +65,9 @@ img{ max-width: 100%; }
 .contpeople p{ max-width: 820px; margin: auto; }
 .contpeople h4{ color:#222222; font-size: 25px; margin-top: 30px; margin-bottom: 30px; font-weight: bold; }
 .contpeople h3{ color:#222222; font-size: 35px; margin-top: 30px; margin-bottom: 30px; margin-bottom: 10px; font-weight: bold; }
-.contpeople .icos a{ width: 40px; height: 40px; display: inline-block; background: #d4d4d4; color: #fff; border-radius: 50px; line-height: 40px; font-size: 20px; margin-left: 10px; }
+.contpeople .icos a{ width: 40px; height: 40px; display: inline-block; background: #d4d4d4; color: #fff; border-radius: 50px; line-height: 40px; font-size: 20px; margin-left: 10px; -webkit-transition: all 0.3s ease-in-out 0s; -moz-transition: all 0.3s ease-in-out 0s; -o-transition: all 0.3s ease-in-out 0s; -ms-transition: all 0.3s ease-in-out 0s; transition: all 0.3s ease-in-out 0s; }
+.contpeople .icos a:hover{ background: #2ecc71; }
+
 
 .divfooter{ background: #e3e3e3; padding-top: 50px; padding-bottom: 50px; text-align: center; }
 .divfooter ul{ margin: 0px; display: inline-block; }
