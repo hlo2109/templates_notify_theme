@@ -1,6 +1,6 @@
 ﻿# Templates notify_theme
 
-## Ejemplo
+## Vista previa
 
-	http://hlo21.com/plantillas/notify_theme/
+	https://hlo2109.github.io/templates_notify_theme/
 	
